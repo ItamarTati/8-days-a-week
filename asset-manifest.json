@@ -1,10 +1,10 @@
 {
   "main.css": "/8-days-a-week/static/css/main.89447bc6.chunk.css",
-  "main.js": "/8-days-a-week/static/js/main.23999b2b.chunk.js",
-  "main.js.map": "/8-days-a-week/static/js/main.23999b2b.chunk.js.map",
+  "main.js": "/8-days-a-week/static/js/main.7adfd49b.chunk.js",
+  "main.js.map": "/8-days-a-week/static/js/main.7adfd49b.chunk.js.map",
   "static/css/1.3c7d68e3.chunk.css": "/8-days-a-week/static/css/1.3c7d68e3.chunk.css",
-  "static/js/1.7f4b0209.chunk.js": "/8-days-a-week/static/js/1.7f4b0209.chunk.js",
-  "static/js/1.7f4b0209.chunk.js.map": "/8-days-a-week/static/js/1.7f4b0209.chunk.js.map",
+  "static/js/1.07640905.chunk.js": "/8-days-a-week/static/js/1.07640905.chunk.js",
+  "static/js/1.07640905.chunk.js.map": "/8-days-a-week/static/js/1.07640905.chunk.js.map",
   "runtime~main.js": "/8-days-a-week/static/js/runtime~main.edff7cdd.js",
   "runtime~main.js.map": "/8-days-a-week/static/js/runtime~main.edff7cdd.js.map",
   "static/media/posture.png": "/8-days-a-week/static/media/posture.09480acc.png",
@@ -14,6 +14,6 @@
   "static/css/main.89447bc6.chunk.css.map": "/8-days-a-week/static/css/main.89447bc6.chunk.css.map",
   "static/css/1.3c7d68e3.chunk.css.map": "/8-days-a-week/static/css/1.3c7d68e3.chunk.css.map",
   "index.html": "/8-days-a-week/index.html",
-  "precache-manifest.b6b5a247ea76a36076432ae4490769a5.js": "/8-days-a-week/precache-manifest.b6b5a247ea76a36076432ae4490769a5.js",
+  "precache-manifest.9e7bcfe5307f485b584b9cb9e887c556.js": "/8-days-a-week/precache-manifest.9e7bcfe5307f485b584b9cb9e887c556.js",
   "service-worker.js": "/8-days-a-week/service-worker.js"
 }
